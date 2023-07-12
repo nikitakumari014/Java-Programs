@@ -1,2 +1,2 @@
 # Java-Programs
-Programs in Java language.
+Some frequently asked programs in Java.
